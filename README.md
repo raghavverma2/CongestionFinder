@@ -1,5 +1,5 @@
 # CongestionFinder
-Script used for research project at UC Irvine looking at patterns of congestion between ISP/content provider pairs. Uses MANIC (Measurement and Analysis of Internet Congestion) API by CAIDA (Center for Applied Internet Data Analysis).
+Script used for research project at UC Irvine looking at patterns of congestion between ISP/content provider pairs. Uses MANIC (Measurement and Analysis of Internet Congestion) API by UCSD/CAIDA (Center for Applied Internet Data Analysis).
 
     This program finds instances of interdomain congestion in the given number of preceeding months between
     network-ASN pairs, and outputs the resulting time period, congestion measurement and visualization links
