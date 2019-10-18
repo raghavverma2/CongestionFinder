@@ -199,8 +199,12 @@ if __name__ == '__main__':
         "852"   :   'TELUS-CANADA',         # ASN852
         "7843"  :   'TIME-WARNER-CABLE',    # TWC-7843-BB
         "16115" :   'VERIZON-ASRANK',       # VERIZON-LUNDAIDC-AS
-        "701"   :   'VERIZON-MANIC',         # UUNET
-        "16509"	:	'AMAZON'				# AMAZON
+        "701"   :   'VERIZON-MANIC',        # UUNET
+        "16509"	:	'AMAZON-02',			# AMAZON-02
+        "14618" :   'AMAZON-AES',
+        "38895" :   'AMAZON-AS-AP',
+        "7224"  :   'AMAZON-AS',
+        "62785" :   'AMAZON-FC'
     }
 
     # List of ASNs
