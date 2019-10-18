@@ -199,12 +199,12 @@ if __name__ == '__main__':
         "852"   :   'TELUS-CANADA',         # ASN852
         "7843"  :   'TIME-WARNER-CABLE',    # TWC-7843-BB
         "16115" :   'VERIZON-ASRANK',       # VERIZON-LUNDAIDC-AS
-        "701"   :   'VERIZON-MANIC',        # UUNET
-        "16509"	:	'AMAZON-02'   			# AMAZON-02
+        "701"   :   'VERIZON-MANIC'         # UUNET
     }
 
     # List of ASNs
     asns = {
+        "16509" :   'AMAZON-02',             # AMAZON-02
         "40027" :   'NETFLIX',              # NETFLIX-ASN
         "20940" :   'AKAMAI',               # AKAMAI-ASN1
         "8075"  :   'MICROSOFT',            # MICROSOFT-CORP-MSN-AS-BLOCK
